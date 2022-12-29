@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@import './estilos/Tarea.css';
+@import'./estilos/ListaTareas.css';
+@import'./estilos/FormularioTareas.css';

@@ -1,0 +1,21 @@
+.contenedor-formulario{
+    width: 400px;
+    height: auto;
+    background: #ffffff;
+    border-radius: 20px;
+    border-left: 1px solid #1b1b4522;
+}
+.contenido-input{
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-top: 5%;
+    border:none;
+    border-bottom:1px solid #1b1b4522;
+    width: 450px;
+    border-radius: 20px;
+    color: #1b1b4592;
+    height: 65px;
+    font-size: 25px;
+    background: #ffffff;
+}

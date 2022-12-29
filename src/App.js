@@ -1,10 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
+import ListaTareas from './componentes/ListaTareas';
 
 function App() {
   return (
     <div className="App">
-      <div>Hello World!!</div>
+      <h1>TODAS</h1>
+      <div className='contenedor-principal'>
+      <ListaTareas />
+    </div>
     </div>
   );
 }
